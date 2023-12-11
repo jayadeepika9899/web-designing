@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+video{
+    max-width: 100%;
+}
+.navbar-expand-lg .navbar-nav .nav.link{
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+    color: #fff;
+    font-size: 1.2rem;
+
+}
+.container1{
+    background: color #2b2525;
+    display: flex;
+}
+.container1 img{
+    width: 200px;
+    height: 300px;
+    margin:2% 6%;
+}
+.container1 .title{
+    padding: 10% 15%;
+}
+.container2{
+    background: color #fff;
+    display: flex;
+}
+.container2 img{
+    width: 200px;
+    height: 300px;
+    margin:2% 6%;
+}
+.container2 .title{
+    padding: 10% 15%;
+}
